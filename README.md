@@ -1,4 +1,4 @@
-[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-c66648af7eb3fe8bc4f294546bfd86ef473780cde1dea487d3c4ff354943c9ae.svg)](https://classroom.github.com/online_ide?assignment_repo_id=9566842&assignment_repo_type=AssignmentRepo)
+
 
 # To Use This Repository
 
@@ -8,9 +8,7 @@
 
 ![Screen Shot 2022-12-06 at 5 10 45 PM](https://user-images.githubusercontent.com/47826697/206034458-7f9fa3ce-c939-408c-b40c-0877cde422e2.png)
 
-
-
-![](https://drive.google.com/file/d/14E43dDw36nGlf2yemtG-Dq83dBwiPnxi/view?usp=share_link)
+## You will Code in CodeSpaces
 
 
 # [Week 2: Google Clone Part 1 Instructions](https://vicki-d-bealman.gitbook.io/swd109-final-project/v/week-2/)
