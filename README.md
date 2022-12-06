@@ -2,6 +2,8 @@
 
 # To Start your Google Clone: Use This Repository [TEMPLATE]
 
+## NOTE: YOU WILL CODE IN CODESPACES NOT VS CODE!!
+
 ![Screen Shot 2022-12-06 at 4 55 09 PM](https://user-images.githubusercontent.com/47826697/206032700-1b52b5f0-b5aa-4d3c-af34-9e946f0783a3.png)
 
 ## Then
